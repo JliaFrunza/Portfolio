@@ -6,4 +6,4 @@
 
 Учусь в Нетологии.
 
-[Фотография]("C:\Users\Юлия\Desktop\Портфолио\WhatsApp Image 2024-04-15 at 21.50.34.jpeg")
+[Фотография](https://github.com/JliaFrunza/Portfolio/blob/main/WhatsApp%20Image%202024-04-15%20at%2021.50.34.jpeg)
